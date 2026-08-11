@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Dagny :)
+
+I'm a Computer Science and Economics student at Georgetown University interested in software development, product development, and building technology that solves real problems!
+
+### Currently
+- Building Lokt, a social study-tracking app for college students
+- Learning more about full-stack development and scalable software systems
+
+### Technologies 
+TypeScript, Python, React Native, SQL
 
 <!--
 **dandreae/dandreae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
