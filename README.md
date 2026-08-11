@@ -2,9 +2,9 @@
 
 I'm a Computer Science and Economics student at Georgetown University interested in software development, product development, and building technology that solves real problems!
 
-### Currently
+### Projects & Highlights
 - Building Lokt, a social study-tracking app for college students
-- Learning more about full-stack development and scalable software systems
+- Built an Equity-First Managed Retreat Simulator for the 2026 WMGIC x PIT-UN Tech for Change Hackathon, awarded 1st place
 
 ### Technologies 
 TypeScript, Python, React Native, SQL
