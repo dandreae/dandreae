@@ -5,6 +5,7 @@ I'm a Computer Science and Economics student at Georgetown University interested
 ### Projects & Highlights
 - Building Dialt, a social study-tracking app for college students
 - Built an [Equity-First Managed Retreat Simulator](https://github.com/dandreae/WMGIC-2026) with @Peypey-ryd for the 2026 WMGIC x PIT-UN Tech for Change Hackathon, awarded 1st place
+- Built PaletteML, a machine-learning pipeline that analyzes color palettes in artwork using color clustering, dimensionality reduction, and similarity modeling
 
 ### Technologies 
 TypeScript, Python, React Native, SQL
