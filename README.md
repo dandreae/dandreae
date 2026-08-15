@@ -3,7 +3,7 @@
 I'm a Computer Science and Economics student at Georgetown University interested in software development, product development, and building technology that solves real problems!
 
 ### Projects & Highlights
-- Building Lokt, a social study-tracking app for college students
+- Building Dialt, a social study-tracking app for college students
 - Built an [Equity-First Managed Retreat Simulator](https://github.com/dandreae/WMGIC-2026) with @Peypey-ryd for the 2026 WMGIC x PIT-UN Tech for Change Hackathon, awarded 1st place
 
 ### Technologies 
