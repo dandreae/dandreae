@@ -8,7 +8,7 @@ I'm a Computer Science and Economics student at Georgetown University interested
 - Built [PaletteML](https://github.com/dandreae/PaletteML), a machine-learning pipeline that analyzes color palettes in artwork using color clustering, dimensionality reduction, and similarity modeling
 
 ### Technologies 
-TypeScript, Python, React Native, SQL
+TypeScript, Python, C++, React Native, SQL
 
 <!--
 **dandreae/dandreae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
